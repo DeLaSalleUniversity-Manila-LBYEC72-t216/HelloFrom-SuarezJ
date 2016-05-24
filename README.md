@@ -10,4 +10,4 @@ system("PAUSE");
 return 0;
 }
 
-![](Capture.jpg)
+![](Capture.JPG)
