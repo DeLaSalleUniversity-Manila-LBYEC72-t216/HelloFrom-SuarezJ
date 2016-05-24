@@ -10,5 +10,5 @@ printf("@@@@@@@@@@@@@@@@@@@@@@@@@@@@\n\n  Jorel Leonardo F. Suarez\n\tBS IME-IT\
 system("PAUSE");
 return 0;
 }
-
+```
 ![](Capture.JPG)
