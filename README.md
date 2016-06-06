@@ -12,3 +12,9 @@ return 0;
 }
 ```
 ![](Capture.JPG)
+
+![](Capture1.JPG)
+
+![](Capture2.JPG)
+
+![](Capture3.JPG)
